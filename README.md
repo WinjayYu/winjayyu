@@ -22,7 +22,4 @@ Welcome to my page
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-![WinjayYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=winjayyu&show_icons=true&theme=react)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winjayyu)](https://github.com/winjayyu/github-readme-stats)
 
